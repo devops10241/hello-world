@@ -8,7 +8,7 @@ pipeline
     {
         steps
       {
-          eco 'Hello World'
+          echo 'Hello World'
       }
     }
   }
